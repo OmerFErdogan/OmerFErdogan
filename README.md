@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omer Erdogan
-- 👀 I’m interested in flutter and other mobile technologies. 
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in mobile technologies. 
+- 🌱 I’m currently learning flutter and Swift(uiKit)
 
 
 <!---
