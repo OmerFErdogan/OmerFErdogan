@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Omer Erdogan
-- 👀 I’m interested in mobile technologies. 
-- 🌱 I’m currently learning flutter and Swift(uiKit)
+- 👀 I’m interested in indie apps
+- 🌱 I’m currently learning:
+-  mobile platforms flutter and Swift(uiKit)
+-  backend techs mostly GOlang and postresql
 
 
 <!---
