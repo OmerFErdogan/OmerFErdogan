@@ -1,11 +1,16 @@
-- 👋 Hi, I’m Omer Erdogan
-- 👀 I’m interested in indie apps
-- 🌱 I’m currently learning:
--  mobile platforms flutter and Swift(uiKit)
--  backend techs mostly GOlang and postresql
+### Selam ben Ömer 👋
 
+Flutter 🚀 ve Go 🐹 ile yazılım geliştiriyorum. Özellikle mobil uygulama geliştirme üzerine odaklandım. 
 
-<!---
-OmerFErdogan/OmerFErdogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 İlgi alanlarım:
+- Flutter ile mobil app geliştirme
+- Go backend mimarileri
+- Açık kaynak katkıları
+
+🧰 Kullandığım teknolojiler:
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+📈 GitHub İstatistiklerim:
+![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmerFErdogan&show_icons=true&theme=radical)
